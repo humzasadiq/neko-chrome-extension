@@ -10,3 +10,6 @@ Settings > Extensions > Manage Extensions > Turn on Developer mode > Load Unpack
 ![image](https://github.com/humzasadiq/neko-chrome-extension/blob/main/images/oneko-tora.png)
 ![image](https://github.com/humzasadiq/neko-chrome-extension/blob/main/images/oneko-maia.png)
 ![image](https://github.com/humzasadiq/neko-chrome-extension/blob/main/images/oneko-dog.png)
+
+## Credits  
+Skins by: [https://github.com/kyrie25/spicetify-oneko](https://github.com/kyrie25/spicetify-oneko)
