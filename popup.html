@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@400..700&display=swap" rel="stylesheet">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Neko Popup</title>
+  <script src="popup.js"></script>
+</head>
+
+<body>
+    <div class="container">   
+        <h1 >Neko <span><img id="nekoPreview" class="cato" src="assets/{value from select}" alt=""></span></h1>   
+        <div class="sw-container">
+            <label class="switch">
+                <input type="checkbox" id="toggleNeko" checked>
+                <span class="slider"></span>
+            </label>
+        </div>
+        <div class="sel-container">
+            <select id="nekoSelect" class="neko-select">
+                <option value="oneko-classic">Neko Classic</option>
+                <option value="oneko-pink">Neko Pink</option>
+                <option value="oneko-maia">Neko Maia</option>
+                <option value="oneko-tora">Neko Tora</option>
+                <option value="oneko-dog">Neko Dog</option>
+            </select>
+        </div>
+        <hr>
+        <h3><span><svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24"><path d="M13.25 7c0 .69-.56 1.25-1.25 1.25s-1.25-.56-1.25-1.25.56-1.25 1.25-1.25 1.25.56 1.25 1.25zm10.75 5c0 6.627-5.373 12-12 12s-12-5.373-12-12 5.373-12 12-12 12 5.373 12 12zm-2 0c0-5.514-4.486-10-10-10s-10 4.486-10 10 4.486 10 10 10 10-4.486 10-10zm-13-2v2h2v6h2v-8h-4z"/></svg></span> &nbsp; You can double-click neko to make her sleep :3</h3>
+    </div>
+</body>
+
+</html>
