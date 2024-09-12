@@ -140,6 +140,7 @@
     nekoEl.style.cursor = 'grab';
     nekoEl.style.margin = '10px';
     nekoEl.style.content= ' ';
+    nekoEl.style.userSelect= 'none';
 
     nekoEl.style.backgroundImage = `url(${chrome.runtime.getURL(nekoState.gif)})`;
     nekoEl.style.backgroundSize = `${nekoSize * 8}px ${nekoSize * 4}px`; // Assuming the sprite sheet is 8x4 cells
