@@ -2,7 +2,7 @@
 A cat companion for your browser! :3  
 Neko follows your mouse. Neko is draggable. Neko sleeps <sup>z</sup><sub>z</sub><sup>z</sup><sub>z</sub><sup>z</sup><sub>z</sub>
  ## To install this extension  
-Download this repo and add it to chrome.  
+Download this repo and add the folder to chrome.  
 Settings > Extensions > Manage Extensions > Turn on Developer mode > Load Unpacked  
 ![image](https://github.com/user-attachments/assets/cf78b996-41ed-467d-bce3-aab20e1d8dc9)
 
